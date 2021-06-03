@@ -1,0 +1,29 @@
+.Countriesbarchar{
+
+    display: flex;
+    justify-content: center;
+}
+
+.Infolist{
+
+    display: flex;
+    flex-flow: column wrap;
+    margin-right: 40px;
+    margin-top: 20px;
+    height: 150px;
+
+}
+
+.Datacountry{
+
+    display: flex;
+    margin-bottom: 10px;
+
+}
+
+.Datanextcountry{
+
+    margin-left: 5px;
+    margin-right: 7px;
+}
+

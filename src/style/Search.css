@@ -1,0 +1,49 @@
+.Countries{
+
+    margin-top: 20px;
+    
+}
+
+.Title{
+
+    margin-bottom: 10px;
+
+}
+
+.Searcher{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.Input{
+
+    padding: 10px;
+    
+}
+
+.Inputcomponent{
+
+    background-color: white;
+}
+
+.Search{
+
+    padding: 10px;
+    
+}
+
+
+.Datacountryinfo{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Datacountrynoflag{
+    
+    margin-top: 12px;
+    text-align: left;
+    
+}
